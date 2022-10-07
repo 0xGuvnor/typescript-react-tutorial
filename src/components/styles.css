@@ -123,5 +123,17 @@
 }
 
 .completed {
-  background-color: #bb4430;
+  background-color: #a22c29;
+}
+
+.dragactive {
+  background-color: #1a8fe3;
+}
+
+.dragcomplete {
+  background-color: #d11149;
+}
+
+.drag {
+  box-shadow: 0 0 20px black;
 }
